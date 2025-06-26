@@ -86,7 +86,7 @@ Acredito que o desenvolvimento profissional está diretamente ligado à vontade 
 
 ## 🐍 Snake Game das Contribuições
 
-![Snake animation](https://github.com/EliasDaniel01/EliasDaniel01/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]([https://github.com/EliasDaniel01/EliasDaniel01/blob/output/github-contribution-grid-snake.svg](https://github.com/EliasDaniel01/snake-game/tree/main))
 
 ---
 
