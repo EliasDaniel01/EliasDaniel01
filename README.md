@@ -114,10 +114,6 @@ Meu objetivo é ser referência tanto em **ADM** quanto em **TI**, sempre inovan
   <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="200" alt="Gif TI" />
 </div>
 
-<div align="center" style="margin-top: 16px">
-  <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="200" alt="Gif Jogo" />
-</div>
-
 <div align="center">
   <strong>“A tecnologia existe para transformar vidas. O meu objetivo é ser um agente dessa transformação!”</strong>
 </div>
