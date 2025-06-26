@@ -13,6 +13,23 @@ Apaixonado por tecnologia, já desenvolvi projetos envolvendo programação, Ard
 
 ---
 
+## 🚀 Tecnologias & Ferramentas
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" alt="Arduino"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" alt="Windows"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Google"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-plain.svg" width="40" alt="Office"/>
+</div>
+
+---
+
 ## 🎯 Experiência Profissional
 
 **Jovem Aprendiz Administrativo**  
@@ -64,6 +81,12 @@ Acredito que o desenvolvimento profissional está diretamente ligado à vontade 
 ## 📫 Contato
 
 - E-mail: elias.daniel01017@gmail.com
+
+---
+
+## 🐍 Snake Game das Contribuições
+
+![Snake animation](https://github.com/EliasDaniel01/EliasDaniel01/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
