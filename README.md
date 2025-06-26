@@ -84,11 +84,6 @@ Acredito que o desenvolvimento profissional está diretamente ligado à vontade 
 
 ---
 
-## 🐍 Snake Game das Contribuições
-
-![Snake animation]([https://github.com/EliasDaniel01/EliasDaniel01/blob/output/github-contribution-grid-snake.svg](https://github.com/EliasDaniel01/snake-game/tree/main))
-
----
 
 <div align="center">
   <strong>“A tecnologia existe para transformar vidas. O meu objetivo é ser um agente dessa transformação!”</strong>
