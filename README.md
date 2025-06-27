@@ -38,7 +38,7 @@
 - **Automação residencial com Arduino**  
 - **Sistemas de controle de estoque em planilhas inteligentes**  
 - **Pequenos bots em Python para automação de tarefas**
-- **Jogo da Cobra (Snake Game) desenvolvido em Python**
+- **Jogo da Cobra (Snake Game) desenvolvido em HTML,CSS,JAVASCRIPT**
 - **Montagem e configuração de ambientes Windows e Linux**
 - **Participação em eventos e hackathons acadêmicos**
 
