@@ -6,7 +6,7 @@
 ## 📊 Linguagens Mais Usadas
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasDaniel01&layout=compact&theme=radical&hide_border=true&langs_count=5&custom_title=Linguagens+Mais+Usadas" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasDaniel01&layout=compact&theme=radical&hide_border=true&langs_count=7&custom_title=Linguagens+Mais+Usadas&hide=python" alt="Linguagens mais usadas"/>
 </div>
 
 > **Obs:** Apesar do card, a linguagem que mais utilizo e gosto é **Python** 🐍!
