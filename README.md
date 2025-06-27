@@ -5,7 +5,11 @@
 
 ## 📊 Linguagens mais usadas
 
-<div align="center">
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasDaniel01&layout=compact&theme=radical&hide_border=true&langs_count=7&custom_title=Linguagens+Mais+Usadas&card_width=380&hide=php,typescript" alt="Linguagens mais usadas"/>
+</div>
+
+<div align="center" style="margin-top: 20px;">
   <img src="https://quickchart.io/chart?c={type:'line',data:{labels:['Python','C++','Java','HTML','CSS','JavaScript','Arduino'],datasets:[{label:'Porcentagem',data:[50,15,10,8,7,6,4],fill:false,borderColor:'rgb(75,192,192)',backgroundColor:'rgba(75,192,192,0.2)',tension:0.3}]},options:{scales:{y:{beginAtZero:true,max:55}},plugins:{legend:{display:false}}}}" alt="Linguagens mais usadas" width="500"/>
 </div>
 
