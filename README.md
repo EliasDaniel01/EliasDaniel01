@@ -80,14 +80,7 @@
 ---
 ## 🏆 Conquistas GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EliasDaniel01&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&title=committer,multilanguage)](https://github.com/ryo-ma/github-profile-trophy)
-
-<div align="left">
-
-- 🗣️ <strong>MultiLanguage</strong>
-- 📝 <strong>Committer</strong>
-
-</div>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EliasDaniel01&theme=radical&column=2&no-bg=true&title=committer,multilanguage)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🎖️ Projetos & Destaques
 
