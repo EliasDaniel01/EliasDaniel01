@@ -7,40 +7,7 @@
 
 ## 📊 Linguagens Mais Usadas
 
-<div align="left">
-
-<table>
-  <tr>
-    <td align="left"><strong>Linguagem</strong></td>
-    <td align="right"><strong>Porcentagem</strong></td>
-  </tr>
-  <tr>
-    <td><span style="color:#3572A5;"><strong>Python</strong></span></td>
-    <td align="right"><strong>50.00%</strong></td>
-  </tr>
-  <tr>
-    <td><span style="color:#f1e05a;">JavaScript</span></td>
-    <td align="right">23.22%</td>
-  </tr>
-  <tr>
-    <td><span style="color:#e34c26;">HTML</span></td>
-    <td align="right">11.88%</td>
-  </tr>
-  <tr>
-    <td><span style="color:#178600;">C#</span></td>
-    <td align="right">8.95%</td>
-  </tr>
-  <tr>
-    <td><span style="color:#563d7c;">CSS</span></td>
-    <td align="right">5.95%</td>
-  </tr>
-  <tr>
-    <td><span style="color:#e38c00;">SQL</span></td>
-    <td align="right">5.00%</td>
-  </tr>
-</table>
-
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasDaniel01&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Tecnologias & Ferramentas
 
