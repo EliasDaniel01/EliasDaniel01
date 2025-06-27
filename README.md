@@ -111,7 +111,7 @@ Meu objetivo é ser referência tanto em **ADM** quanto em **TI**, sempre inovan
 ---
 
 <div align="center">
-  <img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.estadao.com.br%2Flink%2Fgames%2Finteligencia-artificial-esta-em-todo-o-lugar-confira-5-jogos-que-abordam-a-tema%2F&psig=AOvVaw19gMTDjKLHe1uERPNvoPSU&ust=1751068835813000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjJg_KlkI4DFQAAAAAdAAAAABAE)" width="200" alt="Gif TI" />
+  <img src="J2Q5NYKK5FCC5EFZ2UXBZX7YMM.gif" width="200" alt="Gif TI" />
 </div>
 
 <div align="center">
