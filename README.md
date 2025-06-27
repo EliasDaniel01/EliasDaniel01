@@ -5,8 +5,8 @@
 
 ## 📊 Linguagens mais usadas
 
-<div align="center">
-  <img src="https://quickchart.io/chart?c={type:'line',data:{labels:['C/C++','Python','HTML','CSS','Arduino','MySQL'],datasets:[{label:'Porcentagem',data:[30,25,15,10,10,10],fill:false,borderColor:'rgb(75,192,192)',tension:0.1}]},options:{scales:{y:{beginAtZero:true,max:40}}}}" alt="Linguagens mais usadas" width="500"/>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasDaniel01&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas"/>
 </div>
 
 ## 🚀 Tecnologias & Ferramentas
