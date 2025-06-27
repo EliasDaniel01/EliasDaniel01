@@ -93,10 +93,3 @@
 ## 📫 Contato
 
 - E-mail: elias.daniel01017@gmail.com
-
----
-
-<div align="center">
-  <img src="ia.gif" width="500" alt="Gif TI" />
-</div>
-
