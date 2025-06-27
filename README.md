@@ -3,6 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias%20Daniel-blue?logo=linkedin)](https://www.linkedin.com/in/elias-daniel-6148a7310/)
 [![GitHub](https://img.shields.io/badge/GitHub-EliasDaniel01-181717?logo=github)](https://github.com/EliasDaniel01)
+[![Gmail](https://img.shields.io/badge/Gmail-elias.daniel01017@gmail.com-red?logo=gmail)](mailto:elias.daniel01017@gmail.com)
 
 ## 📊 Linguagens Mais Usadas
 
