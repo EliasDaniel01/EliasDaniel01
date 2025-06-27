@@ -1,6 +1,5 @@
-## 🏆 Conquistas GitHub
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&column=2&no-bg=true&title=committer,multilanguage)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EliasDaniel01&theme=radical&column=2&no-bg=true&title=committer,multilanguage)](https://github.com/ryo-ma/github-profile-trophy)
 # 👋 Olá! Eu sou o Elias Daniel Viana Alves Alvarenga
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias%20Daniel-blue?logo=linkedin)](https://www.linkedin.com/in/elias-daniel-6148a7310/)
