@@ -33,12 +33,20 @@
 
 ---
 
+## 🎯 Minha Meta de Crescimento na Área de TI
+
+- **1️⃣ Suporte Técnico:** Iniciar a carreira atuando como suporte técnico de TI, solucionando problemas, prestando atendimento e entendendo a infraestrutura tecnológica.
+- **2️⃣ Analista de Dados:** Evoluir para a área de análise de dados, desenvolvendo habilidades em bancos de dados, Python, automação e extração de insights a partir de dados.
+- **3️⃣ Desenvolvedor de IA:** Alcançar o objetivo de trabalhar como desenvolvedor de Inteligência Artificial, criando soluções inovadoras e utilizando as tecnologias mais modernas do mercado.
+
+---
+
 ## 🎖️ Projetos & Destaques
 
 - **Automação residencial com Arduino**  
 - **Sistemas de controle de estoque em planilhas inteligentes**  
 - **Pequenos bots em Python para automação de tarefas**
-- **Jogo da Cobra (Snake Game) desenvolvido em HTML,CSS,JAVASCRIPT**
+- **Jogo da Cobra (Snake Game) desenvolvido em Python**
 - **Montagem e configuração de ambientes Windows e Linux**
 - **Participação em eventos e hackathons acadêmicos**
 
