@@ -6,10 +6,40 @@
 ## 📊 Linguagens Mais Usadas
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasDaniel01&layout=compact&theme=radical&hide_border=true&langs_count=7&custom_title=Linguagens+Mais+Usadas&hide=python" alt="Linguagens mais usadas"/>
+  <!-- Card visual, estilo GitHub Readme Stats, valores ilustrativos -->
+  <table>
+    <tr>
+      <td align="left"><strong>Linguagem</strong></td>
+      <td align="right"><strong>Porcentagem</strong></td>
+    </tr>
+    <tr>
+      <td><span style="color:#3572A5;"><strong>Python</strong></span></td>
+      <td align="right"><strong>50.00%</strong></td>
+    </tr>
+    <tr>
+      <td><span style="color:#f1e05a;">JavaScript</span></td>
+      <td align="right">46.44%</td>
+    </tr>
+    <tr>
+      <td><span style="color:#e34c26;">HTML</span></td>
+      <td align="right">23.76%</td>
+    </tr>
+    <tr>
+      <td><span style="color:#178600;">C#</span></td>
+      <td align="right">17.90%</td>
+    </tr>
+    <tr>
+      <td><span style="color:#563d7c;">CSS</span></td>
+      <td align="right">11.90%</td>
+    </tr>
+    <tr>
+      <td><span style="color:#e38c00;">SQL</span></td>
+      <td align="right">10.00%</td>
+    </tr>
+  </table>
 </div>
 
-> **Obs:** Apesar do card, a linguagem que mais utilizo e gosto é **Python** 🐍!
+> **Obs:** Python é a linguagem que mais uso para projetos, automação e estudos, mesmo que o GitHub não reflita exatamente esse percentual.
 
 ## 🚀 Tecnologias & Ferramentas
 
