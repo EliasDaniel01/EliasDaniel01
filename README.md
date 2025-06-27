@@ -88,9 +88,3 @@
 - **Jogo da Cobra (Snake Game) desenvolvido em Python**
 - **Montagem e configuração de ambientes Windows e Linux**
 - **Participação em eventos e hackathons acadêmicos**
-
----
-
-## 📫 Contato
-
-- E-mail: elias.daniel01017@gmail.com
