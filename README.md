@@ -111,7 +111,7 @@ Meu objetivo é ser referência tanto em **ADM** quanto em **TI**, sempre inovan
 ---
 
 <div align="center">
-  <img src="ia.gif" width="200" alt="Gif TI" />
+  <img src="ia.gif" width="500" alt="Gif TI" />
 </div>
 
 <div align="center">
