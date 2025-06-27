@@ -8,7 +8,7 @@
 ## 📊 Linguagens mais usadas
 
 <div align="center">
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['C/C++','Python','HTML','CSS','Arduino','MySQL'],datasets:[{data:[30,25,15,10,10,10]}]}}" alt="Linguagens mais usadas" width="400"/>
+  <img src="https://quickchart.io/chart?c={type:'line',data:{labels:['C/C++','Python','HTML','CSS','Arduino','MySQL'],datasets:[{label:'Porcentagem',data:[30,25,15,10,10,10],fill:false,borderColor:'rgb(75,192,192)',tension:0.1}]},options:{scales:{y:{beginAtZero:true,max:40}}}}" alt="Linguagens mais usadas" width="500"/>
 </div>
 
 <div align="left">
