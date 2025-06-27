@@ -6,7 +6,7 @@
 ## 📊 Linguagens Mais Usadas
 
 <div align="left">
-  <!-- Card visual, estilo GitHub Readme Stats, valores ilustrativos -->
+  <!-- Card visual, estilo GitHub Readme Stats, valores ajustados -->
   <table>
     <tr>
       <td align="left"><strong>Linguagem</strong></td>
@@ -18,26 +18,27 @@
     </tr>
     <tr>
       <td><span style="color:#f1e05a;">JavaScript</span></td>
-      <td align="right">46.44%</td>
+      <td align="right">23.22%</td>
     </tr>
     <tr>
       <td><span style="color:#e34c26;">HTML</span></td>
-      <td align="right">23.76%</td>
+      <td align="right">11.88%</td>
     </tr>
     <tr>
       <td><span style="color:#178600;">C#</span></td>
-      <td align="right">17.90%</td>
+      <td align="right">8.95%</td>
     </tr>
     <tr>
       <td><span style="color:#563d7c;">CSS</span></td>
-      <td align="right">11.90%</td>
+      <td align="right">5.95%</td>
     </tr>
     <tr>
       <td><span style="color:#e38c00;">SQL</span></td>
-      <td align="right">10.00%</td>
+      <td align="right">5.00%</td>
     </tr>
   </table>
 </div>
+
 
 ## 🚀 Tecnologias & Ferramentas
 
