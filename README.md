@@ -1,4 +1,3 @@
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&column=2&no-bg=true&title=committer,multilanguage)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 👋 Olá! Eu sou o Elias Daniel Viana Alves Alvarenga
 
