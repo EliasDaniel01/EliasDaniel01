@@ -5,6 +5,12 @@
 
 ## 🚀 Tecnologias & Ferramentas
 
+## 📊 Linguagens mais usadas
+
+<div align="center">
+  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['C/C++','Python','HTML','CSS','Arduino','MySQL'],datasets:[{data:[30,25,15,10,10,10]}]}}" alt="Linguagens mais usadas" width="400"/>
+</div>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
