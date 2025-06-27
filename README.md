@@ -1,3 +1,6 @@
+## 🏆 Conquistas GitHub
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EliasDaniel01&theme=radical&column=6&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 👋 Olá! Eu sou o Elias Daniel Viana Alves Alvarenga
 
@@ -78,9 +81,6 @@
 - **3️⃣ Desenvolvedor de IA:** Alcançar o objetivo de trabalhar como desenvolvedor de Inteligência Artificial, criando soluções inovadoras e utilizando as tecnologias mais modernas do mercado.
 
 ---
-## 🏆 Conquistas GitHub
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EliasDaniel01&theme=radical&column=2&no-bg=true&title=committer,multilanguage)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🎖️ Projetos & Destaques
 
