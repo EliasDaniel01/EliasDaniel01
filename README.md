@@ -39,8 +39,6 @@
   </table>
 </div>
 
-> **Obs:** Python é a linguagem que mais uso para projetos, automação e estudos, mesmo que o GitHub não reflita exatamente esse percentual.
-
 ## 🚀 Tecnologias & Ferramentas
 
 <div align="left">
