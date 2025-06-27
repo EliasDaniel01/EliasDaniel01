@@ -3,13 +3,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias%20Daniel-blue?logo=linkedin)](https://www.linkedin.com/in/elias-daniel-6148a7310/)
 [![GitHub](https://img.shields.io/badge/GitHub-EliasDaniel01-181717?logo=github)](https://github.com/EliasDaniel01)
 
-## 🚀 Tecnologias & Ferramentas
-
 ## 📊 Linguagens mais usadas
 
 <div align="center">
   <img src="https://quickchart.io/chart?c={type:'line',data:{labels:['C/C++','Python','HTML','CSS','Arduino','MySQL'],datasets:[{label:'Porcentagem',data:[30,25,15,10,10,10],fill:false,borderColor:'rgb(75,192,192)',tension:0.1}]},options:{scales:{y:{beginAtZero:true,max:40}}}}" alt="Linguagens mais usadas" width="500"/>
 </div>
+
+## 🚀 Tecnologias & Ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
