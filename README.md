@@ -3,11 +3,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias%20Daniel-blue?logo=linkedin)](https://www.linkedin.com/in/elias-daniel-6148a7310/)
 [![GitHub](https://img.shields.io/badge/GitHub-EliasDaniel01-181717?logo=github)](https://github.com/EliasDaniel01)
 
-## 📊 Linguagens mais usadas
+## 📊 Linguagens Mais Usadas
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasDaniel01&layout=compact&theme=radical&hide_border=true&langs_count=7&custom_title=Linguagens+Mais+Usadas&card_width=380&hide=php,typescript,php,typescript" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasDaniel01&layout=compact&theme=radical&hide_border=true&langs_count=5&custom_title=Linguagens+Mais+Usadas" alt="Linguagens mais usadas"/>
 </div>
+
+> **Obs:** Apesar do card, a linguagem que mais utilizo e gosto é **Python** 🐍!
 
 ## 🚀 Tecnologias & Ferramentas
 
