@@ -1,3 +1,4 @@
+<div align="center">
 
 # 👋 Olá! Eu sou o Elias Daniel Viana Alves Alvarenga
 
@@ -5,14 +6,22 @@
 [![GitHub](https://img.shields.io/badge/GitHub-EliasDaniel01-181717?logo=github)](https://github.com/EliasDaniel01)
 [![Gmail](https://img.shields.io/badge/Gmail-elias.daniel01017@gmail.com-red?logo=gmail)](mailto:elias.daniel01017@gmail.com)
 
-📊 Estatísticas GitHub
+---
 
-[![Elias Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasDaniel01&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasDaniel01&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 Estatísticas GitHub
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasDaniel01&show_icons=true&theme=radical&hide_border=true"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasDaniel01&layout=compact&theme=radical&hide_border=true"/>
+</a>
+
+---
 
 ## 🚀 Tecnologias & Ferramentas
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
@@ -35,24 +44,38 @@
 
 ## 🏢 ADM + TI: Unindo Gestão e Tecnologia
 
-- **Administração**: Organização, controle de documentos, atendimento ao público, controle de materiais, suporte nos processos, implantação de rotinas administrativas, experiência em Pacote Office, Google Workspace, organização de reuniões, comunicação e relacionamento.
-- **Tecnologia da Informação**: Desenvolvimento em C/C++ e Python, automação com Arduino, lógica de programação, experiência com sistemas operacionais (Windows/Linux), uso de Git e GitHub, montagem e manutenção de computadores, noções de redes, banco de dados (MySQL), automação residencial e elétrica básica.
+<div align="center">
+<ul align="left">
+<li><strong>Administração</strong>: Organização, controle de documentos, atendimento ao público, controle de materiais, suporte nos processos, implantação de rotinas administrativas, experiência em Pacote Office, Google Workspace, organização de reuniões, comunicação e relacionamento.</li>
+<li><strong>Tecnologia da Informação</strong>: Desenvolvimento em C/C++ e Python, automação com Arduino, lógica de programação, experiência com sistemas operacionais (Windows/Linux), uso de Git e GitHub, montagem e manutenção de computadores, noções de redes, banco de dados (MySQL), automação residencial e elétrica básica.</li>
+</ul>
+</div>
 
 ---
 
 ## 🎯 Minha Meta de Crescimento na Área de TI
 
-- **1️⃣ Suporte Técnico:** Iniciar a carreira atuando como suporte técnico de TI, solucionando problemas, prestando atendimento e entendendo a infraestrutura tecnológica.
-- **2️⃣ Analista de Dados:** Evoluir para a área de análise de dados, desenvolvendo habilidades em bancos de dados, Python, automação e extração de insights a partir de dados.
-- **3️⃣ Desenvolvedor de IA:** Alcançar o objetivo de trabalhar como desenvolvedor de Inteligência Artificial, criando soluções inovadoras e utilizando as tecnologias mais modernas do mercado.
+<div align="center">
+<ul align="left">
+<li><strong>1️⃣ Suporte Técnico:</strong> Iniciar a carreira atuando como suporte técnico de TI, solucionando problemas, prestando atendimento e entendendo a infraestrutura tecnológica.</li>
+<li><strong>2️⃣ Analista de Dados:</strong> Evoluir para a área de análise de dados, desenvolvendo habilidades em bancos de dados, Python, automação e extração de insights a partir de dados.</li>
+<li><strong>3️⃣ Desenvolvedor de IA:</strong> Alcançar o objetivo de trabalhar como desenvolvedor de Inteligência Artificial, criando soluções inovadoras e utilizando as tecnologias mais modernas do mercado.</li>
+</ul>
+</div>
 
 ---
 
 ## 🎖️ Projetos & Destaques
 
-- **Automação residencial com Arduino**  
-- **Sistemas de controle de estoque em planilhas inteligentes**  
-- **Pequenos bots em Python para automação de tarefas**
-- **Jogo da Cobra (Snake Game) desenvolvido em Python**
-- **Montagem e configuração de ambientes Windows e Linux**
-- **Participação em eventos e hackathons acadêmicos**
+<div align="center">
+<ul align="left">
+<li><strong>Automação residencial com Arduino</strong></li>
+<li><strong>Sistemas de controle de estoque em planilhas inteligentes</strong></li>
+<li><strong>Pequenos bots em Python para automação de tarefas</strong></li>
+<li><strong>Jogo da Cobra (Snake Game) desenvolvido em Python</strong></li>
+<li><strong>Montagem e configuração de ambientes Windows e Linux</strong></li>
+<li><strong>Participação em eventos e hackathons acadêmicos</strong></li>
+</ul>
+</div>
+
+</div>
