@@ -100,6 +100,3 @@
   <img src="ia.gif" width="500" alt="Gif TI" />
 </div>
 
-<div align="center">
-  <strong>“A tecnologia existe para transformar vidas. O meu objetivo é ser um agente dessa transformação!”</strong>
-</div>
