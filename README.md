@@ -30,12 +30,6 @@
 
 ---
 
-## 💡 Resumo
-
-Sou apaixonado por Tecnologia da Informação e Administração, buscando unir o melhor dos dois mundos!  
-Acredito que o desenvolvimento profissional está diretamente ligado à vontade de crescer e ao esforço contínuo.  
-Meu objetivo é ser referência tanto em **ADM** quanto em **TI**, sempre inovando e aprendendo.
-
 ## 🎖️ Projetos & Destaques
 
 - **Automação residencial com Arduino**  
