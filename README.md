@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-EliasDaniel01-181717?logo=github)](https://github.com/EliasDaniel01)
 [![Gmail](https://img.shields.io/badge/Gmail-elias.daniel01017@gmail.com-red?logo=gmail)](mailto:elias.daniel01017@gmail.com)
 
-## 📊 Linguagens Mais Usadas
+📊 Estatísticas GitHub
 
 [![Elias Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasDaniel01&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasDaniel01&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
