@@ -42,29 +42,6 @@
 
 ---
 
-## 🏢 ADM + TI: Unindo Gestão e Tecnologia
-
-<div align="center">
-<ul align="left">
-<li><strong>Administração</strong>: Organização, controle de documentos, atendimento ao público, controle de materiais, suporte nos processos, implantação de rotinas administrativas, experiência em Pacote Office, Google Workspace, organização de reuniões, comunicação e relacionamento.</li>
-<li><strong>Tecnologia da Informação</strong>: Desenvolvimento em C/C++ e Python, automação com Arduino, lógica de programação, experiência com sistemas operacionais (Windows/Linux), uso de Git e GitHub, montagem e manutenção de computadores, noções de redes, banco de dados (MySQL), automação residencial e elétrica básica.</li>
-</ul>
-</div>
-
----
-
-## 🎯 Minha Meta de Crescimento na Área de TI
-
-<div align="center">
-<ul align="left">
-<li><strong>1️⃣ Suporte Técnico:</strong> Iniciar a carreira atuando como suporte técnico de TI, solucionando problemas, prestando atendimento e entendendo a infraestrutura tecnológica.</li>
-<li><strong>2️⃣ Analista de Dados:</strong> Evoluir para a área de análise de dados, desenvolvendo habilidades em bancos de dados, Python, automação e extração de insights a partir de dados.</li>
-<li><strong>3️⃣ Desenvolvedor de IA:</strong> Alcançar o objetivo de trabalhar como desenvolvedor de Inteligência Artificial, criando soluções inovadoras e utilizando as tecnologias mais modernas do mercado.</li>
-</ul>
-</div>
-
----
-
 ## 🎖️ Projetos & Destaques
 
 <div align="center">
@@ -77,5 +54,13 @@
 <li><strong>Participação em eventos e hackathons acadêmicos</strong></li>
 </ul>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EliasDaniel01/EliasDaniel01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EliasDaniel01/EliasDaniel01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EliasDaniel01/EliasDaniel01/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 </div>
