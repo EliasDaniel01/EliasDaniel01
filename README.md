@@ -40,24 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" alt="Raspberry Pi"/>
 </div>
 
----
-
-## 🎖️ Projetos & Destaques
-
-<div align="center">
-<ul align="left">
-<li><strong>Automação residencial com Arduino</strong></li>
-<li><strong>Sistemas de controle de estoque em planilhas inteligentes</strong></li>
-<li><strong>Pequenos bots em Python para automação de tarefas</strong></li>
-<li><strong>Jogo da Cobra (Snake Game) desenvolvido em Python</strong></li>
-<li><strong>Montagem e configuração de ambientes Windows e Linux</strong></li>
-<li><strong>Participação em eventos e hackathons acadêmicos</strong></li>
-</ul>
-</div>
-
----
-
-## 🎮 Contribuições Recentes
 
 <img src="./output/pacman.svg" alt="Pac-Man Contribution Graph" />
 
